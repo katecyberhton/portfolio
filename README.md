@@ -25,4 +25,4 @@
 
 ## Контакты
 - Email: kate-makeeva@mail.ru
-- GitHub: https://github.com/katecyberhton/portfolio
+- GitHub: https://github.com/katemakeeva/portfolio
